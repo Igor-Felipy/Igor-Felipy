@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning a lot of things 😄
 - 👯 I’m looking to collaborate on new projects.
 - 🎓 I'm studying computer science.
-- 📫 How to reach me:E-mail igor.felipy123@gmail.com or send me a message on [twitter][https://twitter.com/FelipyIgor]
+- 📫 How to reach me:E-mail igor.felipy123@gmail.com or send me a message on (twitter)[https://twitter.com/FelipyIgor]
 
 <br/>
 ### Languages and Tools:
