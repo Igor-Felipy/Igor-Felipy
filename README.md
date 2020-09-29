@@ -12,8 +12,8 @@
 [<img align="left" alt="FelipyIgor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/FelipyIgor)
 [<img align="left" alt="igor-felipy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/igor-felipy/)
 
+<br />
 
-<br/>
 ### Languages and Tools:
 
 - C 
