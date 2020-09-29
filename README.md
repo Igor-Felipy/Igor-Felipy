@@ -6,6 +6,12 @@
 - 👯 I’m looking to collaborate on new projects.
 - 🎓 I'm studying computer science.
 - 📫 How to reach me:E-mail igor.felipy123@gmail.com or send me a message on [twitter](https://twitter.com/FelipyIgor)
+### Connect with me:
+
+[<img align="left" alt="Igor-Felipy.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="FelipyIgor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="igor-felipy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 
 <br/>
 ### Languages and Tools:
