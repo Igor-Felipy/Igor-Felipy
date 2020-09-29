@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning a lot of things 😄
 - 👯 I’m looking to collaborate on new projects.
 - 🎓 I'm studying computer science.
-- 📫 How to reach me:E-mail igor.felipy123@gmail.com or send me a message on [twitter](https://twitter.com/FelipyIgor)
+- 📫 How to reach me: igor.felipy123@gmail.com
 ### Connect with me:
 
 [<img align="left" alt="Igor-Felipy.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://igor-felipy.github.io/)
@@ -22,7 +22,7 @@
 - Javascript
 - Docker
 - Data Structures and Algorithms
-- DB: MySQL, https://twitter.com/FelipyIgorOracle, MongoDB
+- DB: MySQL, Oracle, MongoDB
 - VS Code
 - Linux
 
