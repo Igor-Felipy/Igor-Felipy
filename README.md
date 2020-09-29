@@ -14,8 +14,9 @@
 - Python
 - Java
 - Javascript
+- Docker
 - Data Structures and Algorithms
-- DB: MySQL, Oracle, MongoDB
+- DB: MySQL, https://twitter.com/FelipyIgorOracle, MongoDB
 - VS Code
 - Linux
 
