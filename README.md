@@ -8,9 +8,9 @@
 - 📫 How to reach me:E-mail igor.felipy123@gmail.com or send me a message on [twitter](https://twitter.com/FelipyIgor)
 ### Connect with me:
 
-[<img align="left" alt="Igor-Felipy.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Igor-Felipy.github.io]
-[<img align="left" alt="FelipyIgor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/FelipyIgor]
-[<img align="left" alt="igor-felipy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin.com/in/igor-felipy]
+[<img align="left" alt="Igor-Felipy.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](Igor-Felipy.github.io)
+[<img align="left" alt="FelipyIgor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/FelipyIgor)
+[<img align="left" alt="igor-felipy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](linkedin.com/in/igor-felipy)
 
 
 <br/>
