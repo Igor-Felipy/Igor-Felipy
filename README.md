@@ -1,6 +1,6 @@
 ### Hi there, I'm Igor Felipy 👋
 
-## I'm a Python Developer!
+## I'm a FullStack Developer!
 
 - 🌱 I’m currently learning a lot of things 😄
 - 👯 I’m looking to collaborate on new projects.
