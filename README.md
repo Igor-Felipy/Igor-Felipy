@@ -19,15 +19,14 @@
 
 ### Languages and Tools:
 
-- C 
 - Python
-- Java
+- Flask
 - Javascript
 - Docker
 - Data Structures and Algorithms
-- DB: MySQL, Oracle, MongoDB
+- DB: MySQL, Oracle, MongoDB, SQlite3
 - VS Code
-- Linux
+- Linux, Windows
 
 <br />
 
