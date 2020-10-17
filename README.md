@@ -32,7 +32,9 @@
 
 
 ## Main Projects:
+- [Happy](https://github.com/Igor-Felipy/Happy)
 - [Billy - Social Network](https://github.com/Igor-Felipy/rede_social)
+
 
 
 <!--
