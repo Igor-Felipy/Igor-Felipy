@@ -22,6 +22,8 @@
 - Python
 - Flask
 - Javascript
+- MERN (Mongo, express, React, Node.js)
+- React Native
 - Docker
 - Data Structures and Algorithms
 - DB: MySQL, Oracle, MongoDB, SQlite3
