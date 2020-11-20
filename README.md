@@ -1,4 +1,3 @@
-<center>
 ### Hi there, I'm Igor Felipy 👋
 
 ## I'm a FullStack Developer!
@@ -40,7 +39,6 @@
 - [Ecoleta](https://github.com/Igor-Felipy/Ecoleta)
 
 
-</center>
 <!--
 **Igor-Felipy/Igor-Felipy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
