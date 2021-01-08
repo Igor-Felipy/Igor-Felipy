@@ -42,6 +42,13 @@
 
 # Secundary Projects:
 - [InstaClone](https://github.com/Igor-Felipy/InstaClone)
+- [CrypToYou](https://github.com/Igor-Felipy/CrypToYou)
+- [Web Conection Checker](https://github.com/Igor-Felipy/Verificador-disponibilidade)
+- [Word_counter_API](https://github.com/Igor-Felipy/Word_counter_API)
+- [Projects made for university](https://github.com/Igor-Felipy/University-Projects)
+- [Phishing pages](https://github.com/Igor-Felipy/Web-Pages-phishing)
+- [Text Editor](https://github.com/Igor-Felipy/Editor-de-texto-Simples)
+- [Search algorithm](https://github.com/Igor-Felipy/Algoritmo_de_busca)
 
 <!--
 **Igor-Felipy/Igor-Felipy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
