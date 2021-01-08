@@ -15,7 +15,7 @@
 <br />
 
 
-###  [My Site](https://igor-felipy.github.io/) Click to take a look at me
+##  [My Site](https://igor-felipy.github.io/) Click to take a look at me
 
 ### Languages and Tools:
 
@@ -33,14 +33,14 @@
 <br />
 
 
-## Main Projects:
+# Main Projects:
 - [Happy](https://github.com/Igor-Felipy/Happy)
 - [Billy - Social Network](https://github.com/Igor-Felipy/rede_social)
 - [Ecoleta](https://github.com/Igor-Felipy/Ecoleta)
 - [Movie Land](https://github.com/Igor-Felipy/Movie_website)
 
 
-# Secondary Projects:
+### Secondary Projects:
 - [InstaClone](https://github.com/Igor-Felipy/InstaClone)
 - [CrypToYou](https://github.com/Igor-Felipy/CrypToYou)
 - [Web Conection Checker](https://github.com/Igor-Felipy/Verificador-disponibilidade)
