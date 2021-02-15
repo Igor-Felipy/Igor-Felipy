@@ -46,4 +46,4 @@
 - [Search algorithm](https://github.com/Igor-Felipy/Algoritmo_de_busca)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Igor-Felipy&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Igor-Felipy&show_icons=true&theme=white)
