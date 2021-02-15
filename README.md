@@ -6,11 +6,6 @@
 - 👯 I’m looking to collaborate on new projects.
 - 🎓 I'm studying computer science.
 - 📫 How to reach me: igor.felipy123@gmail.com
-### Connect with me:
-
-[<img align="left" alt="Igor-Felipy.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://igor-felipy.github.io/)
-[<img align="left" alt="FelipyIgor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/FelipyIgor)
-[<img align="left" alt="igor-felipy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/igor-felipy/)
 
 <br />
 
@@ -49,3 +44,6 @@
 - [Phishing pages](https://github.com/Igor-Felipy/Web-Pages-phishing)
 - [Text Editor](https://github.com/Igor-Felipy/Editor-de-texto-Simples)
 - [Search algorithm](https://github.com/Igor-Felipy/Algoritmo_de_busca)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Igor-Felipy&show_icons=true&theme=dark)
