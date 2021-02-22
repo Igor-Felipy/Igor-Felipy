@@ -33,6 +33,7 @@
 - [Billy - Social Network](https://github.com/Igor-Felipy/rede_social)
 - [Ecoleta](https://github.com/Igor-Felipy/Ecoleta)
 - [Movie Land](https://github.com/Igor-Felipy/Movie_website)
+- [Dev Radar](https://github.com/Igor-Felipy/Dev-Radar)
 
 
 ### Secondary Projects:
