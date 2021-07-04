@@ -24,6 +24,7 @@
 - DB: MySQL, Oracle, MongoDB, SQlite3
 - VS Code
 - Linux, Windows
+- Power Platform (Power Apps, Power BI and Power Automate)
 
 <br />
 
