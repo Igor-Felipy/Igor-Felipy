@@ -9,9 +9,6 @@
 
 <br />
 
-
-##  [My Site](https://igor-felipy.github.io/) Click to take a look at me
-
 ### Languages and Tools:
 
 - Python
