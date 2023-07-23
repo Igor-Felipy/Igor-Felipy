@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning a lot of things 😄
 - 👯 I’m looking to collaborate on new projects.
-- 🎓 I'm studying computer science.
+- 🎓 I'm a computer scientist.
 - 📫 How to text me: igor.felipy123@gmail.com
 
 <br />
@@ -13,6 +13,9 @@
 
 - Python
 - Flask
+- Pandas
+- Java
+- Spring
 - Javascript
 - MERN (Mongo, express, React, Node.js)
 - React Native
